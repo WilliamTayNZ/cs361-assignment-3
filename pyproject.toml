@@ -1,0 +1,13 @@
+[project]
+name = "assignment-3-supervised-learning"
+version = "0.1.0"
+description = "COMPSCI 361 Assignment 3 - Group Project"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel",
+    "notebook",
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "matplotlib",
+]
